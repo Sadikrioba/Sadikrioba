@@ -1,5 +1,4 @@
  Hi there! 👋 I'm Sadickrioba
- 🌟 About Me
  I'm passionate about blockchain development technology and currently diving deep into Solidity programming. My goal is to leverage my skills to create innovative Web3 projects that redefine the future of decentralized technology.
  💡 What I'm Working On
 - Learning and mastering Solidity programming.
